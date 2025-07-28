@@ -44,11 +44,13 @@ npm run dev
 
 ---
 
-🔗 API Endpoints
-Method	Endpoint	         Description
-GET	    /api/notes	       Get all notes
-POST	  /api/notes	       Add new note
-DELETE	/api/notes/:id	   Delete a note by ID
+## 🔗 API Endpoints
+
+| Method | Endpoint        | Description         |
+|:-----:|-----------------|--------------------:|
+| GET   | `/api/notes`    | Get all notes       |
+| POST  | `/api/notes`    | Add new note        |
+| DELETE| `/api/notes/:id`| Delete a note by ID |
 
 
 
